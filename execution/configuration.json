@@ -1,0 +1,152 @@
+{
+    "voraus-AD-torques-10hz-1.0": {
+        "epochs": 15,
+        "lr": 0.008512453443358298,
+        "max_beta": 0.04985921074710903,
+        "l1_weight": 0.00845006975163711,
+        "gamma": 0.3913601258972845,
+        "batch_size": 8,
+        "window_size": 30,
+        "win_stride": 10
+    },
+    "voraus-AD-torques-25hz-1.0": {
+        "epochs": 15,
+        "lr": 0.009992419746130386,
+        "max_beta": 0.026656860320623713,
+        "l1_weight": 0.0033789745356283102,
+        "gamma": 0.4462496834183972,
+        "batch_size": 8,
+        "window_size": 75,
+        "win_stride": 25
+    },
+    "voraus-AD-torques-50hz-0.125": {
+        "epochs": 15,
+        "lr": 0.007517402162667953,
+        "max_beta": 0.047212949166841114,
+        "l1_weight": 0.009971331957783915,
+        "gamma": 0.22512302919057137,
+        "batch_size": 8,
+        "window_size": 150,
+        "win_stride": 50
+    },
+    "voraus-AD-torques-50hz-0.25": {
+        "epochs": 15,
+        "lr": 0.0039037480397307502,
+        "max_beta": 0.04919424910155777,
+        "l1_weight": 0.00222479860983045,
+        "gamma": 0.23298628096433233,
+        "batch_size": 8,
+        "window_size": 150,
+        "win_stride": 50
+    },
+    "voraus-AD-torques-50hz-0.5": {
+        "epochs": 15,
+        "lr": 0.003991305878561679,
+        "max_beta": 0.011852604486622221,
+        "l1_weight": 0.00737265320016441,
+        "gamma": 0.4879639408647978,
+        "batch_size": 8,
+        "window_size": 150,
+        "win_stride": 50
+    },
+    "voraus-AD-torques-50hz-1.0": {
+        "epochs": 15,
+        "lr": 0.008813259224734665,
+        "max_beta": 0.0872951024190968,
+        "l1_weight": 0.005259945893092017,
+        "gamma": 0.355919277250694,
+        "batch_size": 8,
+        "window_size": 150,
+        "win_stride": 50
+    },
+    "voraus-AD-torques-100hz-0.125": {
+        "epochs": 15,
+        "lr": 0.009197350992568125,
+        "max_beta": 0.08125525342743982,
+        "l1_weight": 0.004450973669432,
+        "gamma": 0.3115579679011618,
+        "batch_size": 8,
+        "window_size": 150,
+        "win_stride": 50
+    },
+    "voraus-AD-torques-100hz-0.25": {
+        "epochs": 15,
+        "lr": 0.005800345483761608,
+        "max_beta": 0.06817863330390367,
+        "l1_weight": 0.0029409284673255387,
+        "gamma": 0.4622663913357368,
+        "batch_size": 8,
+        "window_size": 150,
+        "win_stride": 50
+    },
+    "voraus-AD-torques-100hz-0.5": {
+        "epochs": 15,
+        "lr": 0.007954026663795598,
+        "max_beta": 0.08526247907676165,
+        "l1_weight": 0.007659554862364802,
+        "gamma": 0.32389611800242635,
+        "batch_size": 8,
+        "window_size": 150,
+        "win_stride": 50
+    },
+    "voraus-AD-torques-100hz-1.0": {
+        "epochs": 15,
+        "lr": 0.006521568573744361,
+        "max_beta": 0.04043009303925295,
+        "l1_weight": 0.001156550601353861,
+        "gamma": 0.4982166767495491,
+        "batch_size": 8,
+        "window_size": 150,
+        "win_stride": 50
+    },
+    "voraus-AD-currents-50hz-1.0": {
+        "epochs": 15,
+        "lr": 0.003991305878561679,
+        "max_beta": 0.011852604486622221,
+        "l1_weight": 0.00737265320016441,
+        "gamma": 0.4879639408647978,
+        "batch_size": 8,
+        "window_size": 150,
+        "win_stride": 50
+    },
+    "voraus-AD-currents-100hz-1.0": {
+        "epochs": 15,
+        "lr": 0.009197350992568125,
+        "max_beta": 0.08125525342743982,
+        "l1_weight": 0.004450973669432,
+        "gamma": 0.3115579679011618,
+        "batch_size": 8,
+        "window_size": 150,
+        "win_stride": 50
+    },
+    "voraus-AD-encoders-50hz-1.0": {
+        "epochs": 15,
+        "lr": 0.008624974396290504,
+        "max_beta": 0.08883811702444884,
+        "l1_weight": 0.004614983147410311,
+        "gamma": 0.3551887020844244,
+        "batch_size": 8,
+        "window_size": 150,
+        "win_stride": 50
+    },
+    "voraus-AD-encoders-100hz-1.0": {
+        "epochs": 15,
+        "lr": 0.009256048972893584,
+        "max_beta": 0.04820014280137074,
+        "l1_weight": 0.0022499525935377003,
+        "gamma": 0.2274015140552499,
+        "batch_size": 8,
+        "window_size": 150,
+        "win_stride": 50
+    },
+    "voraus-AD-machine-100hz-1.0": {
+        "epochs": 15,
+        "lr": 0.0021124110511423063,
+        "max_beta": 0.07839741187027484,
+        "l1_weight": 0.00313665474287488,
+        "gamma": 0.22947515687013376,
+        "batch_size": 8,
+        "window_size": 150,
+        "win_stride": 50
+    }
+}

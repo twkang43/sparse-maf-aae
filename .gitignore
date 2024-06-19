@@ -1,0 +1,9 @@
+__pycache__
+__init__.py
+
+dataset/
+model_save/
+results/
+
+.vscode/
+logs/
