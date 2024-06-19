@@ -1,2 +1,2 @@
-# Sparse-MAF-AAE
-The code for the Sparse MAE-AAE paper.
+# Sparse-MAF AAE
+This is the official repository to the paper "Sparse MAF-AAE".
