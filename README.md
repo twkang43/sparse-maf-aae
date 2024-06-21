@@ -1,7 +1,7 @@
 # Sparse MAF-AAE
 This is the official repository to the paper "Sparse MAF-AAE".
 
-![Sprase MAF-AAE]()
+![Sprase MAF-AAE](https://drive.google.com/file/d/11wAkPHjmHGcS5Q_Lvbt5E9fxoRKMP8Ns/view?usp=share_link)
 
 ## Get Started
 ### 1. Clone the Repository
@@ -54,7 +54,7 @@ We compared our model with 3 baselines: LSTM-VAE, Anomaly Transformer, and MVT-F
 
 Generally, Sparse MAF-AAE achieves SOTA on various scenarios.
 
-![Sparse MAF-AAE main results]()
+![Sparse MAF-AAE main results](https://drive.google.com/file/d/1_YHu2gh-LZLYHPRF8A7zVONkIYV24LE-/view?usp=share_link)
 
 ## Citation
 If you use the Sparse MAF-AAE in your research, please cite the following paper:
