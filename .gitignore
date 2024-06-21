@@ -1,7 +1,7 @@
 __pycache__
 __init__.py
 
-dataset/
+*.parquet
 model_save/
 results/
 

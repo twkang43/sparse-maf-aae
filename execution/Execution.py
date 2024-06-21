@@ -290,5 +290,5 @@ class AAE():
         for i, category in enumerate(ANOMALY_CATEGORIES):
             print(f"{category.name:<17} : {np.mean(aurocs_np[:,i]):.2f} \u00B1 {np.std(aurocs_np[:,i]):.2f}")
 
-        print(f"\nOverall performance : {np.mean(aurocs_np):.2f} \u00B1 {np.std(aurocs_np):.2f}")
+        print(f"\nOverall performance : {np.mean(aurocs_np):.2f} \u00B1 {np.std(aurocs_np, ddof=1):.2f}")
         print(f"Overall elapsed time : {np.mean(elapsed_time_np):.4f} \u00B1 {np.std(elapsed_time_np):.4f}")
