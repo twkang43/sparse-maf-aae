@@ -8,7 +8,7 @@ This is the official repository to the paper "Sparse MAF-AAE".
 To download the codes, please clone this repository.
 ```
 git clone https://github.com/twkang43/Sparse-MAF-AAE.git
-cd Sparse-MAF-AAE
+cd sparse-maf-aae
 ```
 
 ### 2. Configure Python Environments
@@ -36,7 +36,11 @@ The voraus-AD dataset should be placed in the following path:
 ## Running Sparse MAF-AAE
 You can run Sprase MAF-AAE with the following instructions:
 ```
-python main.py --exec <exec> --signals <signals> --frequency <frequency> --subset_size <subset_size>
+python main.py \
+  --exec <exec> \
+  --signals <signals> \
+  --frequency <frequency> \
+  --subset_size <subset_size>
 ```
 
 There are four arguments:
@@ -59,10 +63,13 @@ Generally, Sparse MAF-AAE achieves SOTA on various scenarios.
 ## Citation
 If you use the Sparse MAF-AAE in your research, please cite the following paper:
 ```
+@article{kang2025real,
+  title={A Real-time Anomaly Detection Method for Robots based on a Flexible and Sparse Latent Space},
+  author={Kang, Taewook and You, Bum-Jae and Park, Juyoun and Lee, Yisoo},
+  journal={arXiv preprint arXiv:2504.11170},
+  year={2025}
+}
 ```
-
-## Contact
-If you have any question, please contact .
 
 ## License 
 This project is licensed under the [MIT License](./LICENSE).
