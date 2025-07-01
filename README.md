@@ -1,5 +1,5 @@
 # Sparse MAF-AAE
-This is the official repository for the paper "**[A Real-time Anomaly Detection Method for Robots based on a Flexible and Sparse Latent Space](https://arxiv.org/abs/2504.11170)**", accepted for publication in *[Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)*.
+This is the official repository for the paper "**[A real-time anomaly detection method for robots based on a flexible and sparse latent space](https://arxiv.org/abs/2504.11170)**", publised in *[Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)*.
 
 ## Get Started
 ### 1. Clone the Repository
@@ -62,10 +62,13 @@ Generally, Sparse MAF-AAE achieves SOTA on various scenarios.
 If you use the Sparse MAF-AAE in your research, please cite the following paper:
 ```
 @article{kang2025real,
-  title={A Real-time Anomaly Detection Method for Robots based on a Flexible and Sparse Latent Space},
+  title={A real-time anomaly detection method for robots based on a flexible and sparse latent space},
   author={Kang, Taewook and You, Bum-Jae and Park, Juyoun and Lee, Yisoo},
-  journal={arXiv preprint arXiv:2504.11170},
-  year={2025}
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={158},
+  pages={111310},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
